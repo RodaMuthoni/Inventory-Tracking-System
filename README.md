@@ -67,29 +67,9 @@ To use the **Inventory Tracking System** in your local environment, follow these
 
    Once the SQL file is executed, the database will be set up and you can begin adding, updating, and tracking inventory.
 
----
-
-## Screenshot/Link to ERD
-
-Below is the link to the **Entity-Relationship Diagram (ERD)** that illustrates the database structure:
-
-[Link to ERD](#)
-
-### OR insert a screenshot here:
-
-![ERD Screenshot](#)
-
----
-
 ## Technologies Used
 
 * **MySQL**: Relational database management system.
 * **Git**: Version control system for managing code.
 
-
-1. Replace the placeholder links and sections with actual information for your project (like the ERD link and screenshot).
-2. You can expand the README with more sections as needed, such as "How to Contribute," "Acknowledgments," and more.
-
 ---
-
-This should give you a good starting point for your README! Let me know if you need anything else.
