@@ -1,8 +1,3 @@
-# Inventory-Tracking-System
-Here's a basic README template you can use for your project. Just update it with the specifics of your project.
-
----
-
 # Inventory Tracking System
 
 ## Project Description
@@ -91,15 +86,6 @@ Below is the link to the **Entity-Relationship Diagram (ERD)** that illustrates 
 * **MySQL**: Relational database management system.
 * **Git**: Version control system for managing code.
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Notes:
 
 1. Replace the placeholder links and sections with actual information for your project (like the ERD link and screenshot).
 2. You can expand the README with more sections as needed, such as "How to Contribute," "Acknowledgments," and more.
